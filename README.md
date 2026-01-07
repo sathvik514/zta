@@ -21,8 +21,32 @@ device context validation, and least-privilege transaction control.
 Username: admin  
 Password: 1234  
 
+#folder architecture 
+ZTA PROJECT FOR BANKING/
+│
+├── backend/
+│   ├── server.js
+│   ├── package.json
+│   ├── node_modules/
+│   │
+│   ├── middleware/
+│   │   └── auth.js
+│   │
+│   └── public/
+│       ├── index.html
+│       ├── dashboard.html
+│       ├── transfer.html
+│       ├── css/
+│       │   └── style.css
+│       └── js/
+│           └── app.js
+
+
 ## How to Run Locally
 ```bash
 cd backend
 npm install
 npm start
+#folder architcture to save
+p.js
+
