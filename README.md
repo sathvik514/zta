@@ -22,6 +22,16 @@ Username: admin
 Password: 1234  
 
 #folder architecture 
+
+
+
+## How to Run Locally
+```bash
+cd backend
+npm install
+npm start
+#folder architcture to save
+p.js
 ZTA PROJECT FOR BANKING/
 │
 ├── backend/
@@ -41,12 +51,4 @@ ZTA PROJECT FOR BANKING/
 │       └── js/
 │           └── app.js
 
-
-## How to Run Locally
-```bash
-cd backend
-npm install
-npm start
-#folder architcture to save
-p.js
 
